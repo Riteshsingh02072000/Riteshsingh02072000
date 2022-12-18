@@ -19,4 +19,4 @@
 - ☁ Cloud Technologies - Google Cloud Platform
 
 <br>
-[![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSingh02072000)](https://github.com/RiteshSingh02072000/github-readme-stats)
+[![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshSingh02072000)](https://github.com/RiteshSingh02072000/github-readme-stats)
